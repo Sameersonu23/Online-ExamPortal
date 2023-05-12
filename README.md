@@ -28,7 +28,7 @@ Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
 
 
-For easy understanding this system reequired
+For easy understanding this system required
 -------------------------------------------
 
 FrontEND 
